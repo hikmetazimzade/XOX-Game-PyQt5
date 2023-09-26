@@ -1,5 +1,5 @@
 # XOX-Game-PyQt5
-It's an XOX game developed by using PyQt5.
+## It's an XOX game developed by using PyQt5.
 
 # Requirements
 * ### PyQt5==5.15.9
