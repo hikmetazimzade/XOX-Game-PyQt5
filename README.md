@@ -4,4 +4,3 @@
 # Requirements
 * ### PyQt5==5.15.9
 * ### PyQt5_sip==12.11.0
-* 
